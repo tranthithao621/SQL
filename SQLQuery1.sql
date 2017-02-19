@@ -1,0 +1,1 @@
+select * from dangnhap where TenDangNhap='abc' and MatKhau='123'
